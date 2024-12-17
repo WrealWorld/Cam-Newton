@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F0F8FF; /* Baby Blue */
+    color: #2C3E50;
+}
+
+h1, h2 {
+    color: #FFA500; /* Orange */
+}
+
+a {
+    color: #FFA500; /* Orange */
+}
+
+a:hover {
+    color: #FF4500; /* Darker Orange */
+}
